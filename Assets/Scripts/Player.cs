@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
 	private Vector2 direction;
 	private List<Transform> segments;
 	public Transform segmentPrefab;
+	public static int score;
 
 	private void Start()
 	{
@@ -62,10 +63,20 @@ public class Player : MonoBehaviour
 
 	private void OnTriggerEnter2D(Collider2D other)
 	{
-		Debug.Log("trigger collision");
 		if (other.tag.Equals("Food"))
 		{
 			Grow();
 		}
+
+		if (other.tag.Equals("Obstacle"))
+		{
+			GameOver();
+		}
+	}
+
+
+	private void GameOver()
+	{
+		GetComponent<MenuManager>().Menu();
 	}
 }

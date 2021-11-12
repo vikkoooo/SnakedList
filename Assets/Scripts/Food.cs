@@ -31,6 +31,7 @@ public class Food : MonoBehaviour
     {
 	    if (other.tag.Equals("Player"))
 	    {
+		    Player.score++;
 		    RandomizePosition();
 	    }
     }
