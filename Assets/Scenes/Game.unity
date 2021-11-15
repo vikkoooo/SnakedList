@@ -149,7 +149,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 10204190}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -12, z: 0}
+  m_LocalPosition: {x: 0, y: -13, z: 0}
   m_LocalScale: {x: 48, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 428395826}
@@ -375,7 +375,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 556152760}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 12, z: 0}
+  m_LocalPosition: {x: 0, y: 13, z: 0}
   m_LocalScale: {x: 48, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 428395826}
@@ -643,7 +643,7 @@ Transform:
   m_GameObject: {fileID: 801113819}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 24, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 25, z: 1}
+  m_LocalScale: {x: 1, y: 27, z: 1}
   m_Children: []
   m_Father: {fileID: 428395826}
   m_RootOrder: 1
@@ -736,7 +736,7 @@ GameObject:
   - component: {fileID: 1214614057}
   - component: {fileID: 1214614056}
   m_Layer: 0
-  m_Name: GridArea
+  m_Name: SpawnArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -766,7 +766,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 46, y: 22}
+  m_Size: {x: 46, y: 24}
   m_EdgeRadius: 0
 --- !u!4 &1214614057
 Transform:
@@ -907,7 +907,7 @@ GameObject:
   - component: {fileID: 1492810245}
   - component: {fileID: 1492810246}
   m_Layer: 0
-  m_Name: FoodSpawner
+  m_Name: FoodInitializer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -939,7 +939,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e7b7022c01e247488007bfa54b52a2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  area: {fileID: 1214614056}
   foodPrefab: {fileID: 4344414415560153092, guid: 4a1f257003206452bb7de0261f1c9b56, type: 3}
 --- !u!1 &1832199222
 GameObject:
@@ -1019,7 +1018,7 @@ Transform:
   m_GameObject: {fileID: 1832199222}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -24, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 25, z: 1}
+  m_LocalScale: {x: 1, y: 27, z: 1}
   m_Children: []
   m_Father: {fileID: 428395826}
   m_RootOrder: 0

@@ -1,35 +1,29 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
 public class Food : MonoBehaviour
 {
-	public BoxCollider2D area;
-	private Bounds bounds;
 	private GameObject spawnArea;
+	private Bounds bounds;
 	public GameObject foodPrefab;
-
 	
 	private void Awake()
 	{
-		spawnArea = GameObject.Find("GridArea");
+		spawnArea = GameObject.Find("SpawnArea");
 	}
 
 	void Start()
 	{
-		area = spawnArea.GetComponent<BoxCollider2D>();
-		bounds = area.bounds;
-		RandomizePosition();
+		bounds = spawnArea.GetComponent<BoxCollider2D>().bounds;
+		this.transform.position = GetRandomPosition();
 	}
 	
-	private void RandomizePosition()
+	private Vector3 GetRandomPosition()
 	{
 		float x = Random.Range(bounds.min.x, bounds.max.x);
 		float y = Random.Range(bounds.min.y, bounds.max.y);
 
-		this.transform.position = new Vector3(Mathf.Round(x), Mathf.Round(y), 0);
+		return new Vector3(Mathf.Round(x), Mathf.Round(y), 0);
 	}
 	
     private void OnTriggerEnter2D(Collider2D other)

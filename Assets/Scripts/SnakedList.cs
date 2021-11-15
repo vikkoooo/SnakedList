@@ -6,6 +6,7 @@ public class SnakedList<T>
 {
 	private int length;
 	private Node<T> head;
+	private Node<T> tail;
 
 	// Initialize list length at 0
 	public SnakedList()
@@ -21,6 +22,7 @@ public class SnakedList<T>
 		if (head == null)
 		{
 			head = newNode;
+			tail = newNode;
 			length++;
 			return;
 		}
@@ -35,7 +37,7 @@ public class SnakedList<T>
 		length++;
 	}
 
-	// To access the N:th element in the list
+	// To access the N:th element in the list. Currently unused in this version of the game
 	public Node<T> GetElementN(int n)
 	{
 		Node<T> temp = head;
@@ -51,6 +53,24 @@ public class SnakedList<T>
 		}
 
 		return temp;
+	}
+
+
+	// Returns the last element in the list, in other words, the head.
+	public Node<T> GetLastElement()
+	{
+		return head;
+	}
+	
+
+	public IEnumerator GetEnumerator()
+	{
+		Node<T> curr = tail;
+		while (curr != null)
+		{
+			yield return curr;
+			curr = curr.Next;
+		}
 	}
 
 	// Length getter
