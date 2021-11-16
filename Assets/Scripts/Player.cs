@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
 	private SnakedList<Transform> segments;
 	public Transform segmentPrefab;
 	public static int score;
+	private SpriteRenderer sprite;
 	
 	private void Start()
 	{
@@ -16,6 +17,9 @@ public class Player : MonoBehaviour
 		// Two options to set speed, either from this variable
 		// Or project settings > Time > Fixed Timestep = 0.3 is good if not using this variable below
 		//Time.fixedDeltaTime = 0.3f;
+
+		sprite = GetComponent<SpriteRenderer>();
+		
 	}
 
 	private void Update()
@@ -31,10 +35,12 @@ public class Player : MonoBehaviour
 		else if (Input.GetKeyDown(KeyCode.A))
 		{
 			direction = Vector2.left;
+			sprite.flipX = true;
 		}
 		else if (Input.GetKeyDown(KeyCode.D))
 		{
 			direction = Vector2.right;
+			sprite.flipX = false;
 		}
 	}
 	

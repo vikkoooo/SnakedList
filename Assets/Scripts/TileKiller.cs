@@ -9,7 +9,7 @@ public class TileKiller : MonoBehaviour
 	public List<Vector3> myList;
 	private GameObject spawnArea;
 	private Bounds bounds;
-	private int tilesToKill = 10;
+	private int tilesToKill = 25;
 	
 	private void Awake()
 	{

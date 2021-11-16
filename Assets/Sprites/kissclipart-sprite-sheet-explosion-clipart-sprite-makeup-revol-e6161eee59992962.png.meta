@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: b3cff109f35914628b1ed57ed2bd7a55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1681952122114311983
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_0
+  - first:
+      213: 1563839512551347472
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_1
+  - first:
+      213: 6408297565191306057
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_2
+  - first:
+      213: -4716451108120118553
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_3
+  - first:
+      213: -2823857198724553277
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_4
+  - first:
+      213: -4677367096736176711
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_5
+  - first:
+      213: 529584595635220940
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_6
+  - first:
+      213: -7788332212922826561
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_7
+  - first:
+      213: 3487003289868298524
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_8
+  - first:
+      213: -180644186614335786
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_9
+  - first:
+      213: 5272941996394684668
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_10
+  - first:
+      213: 5586596004185481724
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_11
+  - first:
+      213: -6952015179880584182
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_12
+  - first:
+      213: 6328512210300327515
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_13
+  - first:
+      213: 1004572163027018294
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_14
+  - first:
+      213: -6472933492986099715
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_15
+  - first:
+      213: 5587558611782639192
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_16
+  - first:
+      213: 5327601185823658370
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_17
+  - first:
+      213: 3985332656913155616
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_18
+  - first:
+      213: 6782759547797505799
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_19
+  - first:
+      213: 434623718742457193
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_20
+  - first:
+      213: -845084860293110005
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_21
+  - first:
+      213: 1140956517480386257
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_22
+  - first:
+      213: 1673752087212361190
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_23
+  - first:
+      213: -233976134050475579
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_24
+  - first:
+      213: 3608810631744611280
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_25
+  - first:
+      213: 3070684486829337993
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_26
+  - first:
+      213: -1284186353511550961
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_27
+  - first:
+      213: 8344963352987130672
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_28
+  - first:
+      213: 7153597266739864621
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_29
+  - first:
+      213: -6435989083011548761
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_30
+  - first:
+      213: -7753373649566069290
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_31
+  - first:
+      213: -2325793629808984639
+    second: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d87920d47188a8e0800000000000000
+      internalID: -1681952122114311983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d75740cfd3b510800000000000000
+      internalID: 1563839512551347472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b7a34dea8dee850800000000000000
+      internalID: 6408297565191306057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eab00cb4bccb8eb0800000000000000
+      internalID: -4716451108120118553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e795d6d4afc8d0800000000000000
+      internalID: -2823857198724553277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5a0f24867a61fb0800000000000000
+      internalID: -4677367096736176711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc13b554266795700800000000000000
+      internalID: 529584595635220940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0c000ed194ae390800000000000000
+      internalID: -7788332212922826561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19e7376403546030800000000000000
+      internalID: 3487003289868298524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6fc12c1193e7df0800000000000000
+      internalID: -180644186614335786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf02858fec04d2940800000000000000
+      internalID: 5272941996394684668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a71d7773978d40800000000000000
+      internalID: 5586596004185481724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c281af60b758f90800000000000000
+      internalID: -6952015179880584182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b565cab435463d750800000000000000
+      internalID: 6328512210300327515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a8705f05f0fd00800000000000000
+      internalID: 1004572163027018294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7c5df78458b26a0800000000000000
+      internalID: -6472933492986099715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e9af804fefa8d40800000000000000
+      internalID: 5587558611782639192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28118f93d017fe940800000000000000
+      internalID: 5327601185823658370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026821fafeebe4730800000000000000
+      internalID: 3985332656913155616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7070c534fd3312e50800000000000000
+      internalID: 6782759547797505799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b7a9e28f7180600800000000000000
+      internalID: 434623718742457193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072b290cc7a544f0800000000000000
+      internalID: -845084860293110005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec59858ed75df00800000000000000
+      internalID: 1140956517480386257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e58c58c7ac5a3710800000000000000
+      internalID: 1673752087212361190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1900c12ffb0ccf0800000000000000
+      internalID: -233976134050475579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d36ac63622151230800000000000000
+      internalID: 3608810631744611280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98de3c685434d9a20800000000000000
+      internalID: 3070684486829337993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f003a8db057ad2ee0800000000000000
+      internalID: -1284186353511550961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b537eb4f34fc370800000000000000
+      internalID: 8344963352987130672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d242c3e00dea64360800000000000000
+      internalID: 7153597266739864621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9fdc04706cea6a0800000000000000
+      internalID: -6435989083011548761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8dbeaebb766490800000000000000
+      internalID: -7753373649566069290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-sprite-sheet-explosion-clipart-sprite-makeup-revol-e6161eee59992962_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7e5a240f19bfd0800000000000000
+      internalID: -2325793629808984639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
