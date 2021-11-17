@@ -6,7 +6,7 @@ public class TileKiller : MonoBehaviour
 {
 
 	public GameObject deadTilePrefab;
-	public List<Vector3> myList;
+	public static List<Vector3> myList;
 	private GameObject spawnArea;
 	private Bounds bounds;
 	private int tilesToKill = 25;
@@ -14,6 +14,7 @@ public class TileKiller : MonoBehaviour
 	private void Awake()
 	{
 		spawnArea = GameObject.Find("SpawnArea");
+		myList = new List<Vector3>();
 	}
 
 	void Start()

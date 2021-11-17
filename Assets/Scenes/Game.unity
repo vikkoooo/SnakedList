@@ -489,7 +489,7 @@ Transform:
   m_GameObject: {fileID: 619862296}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.25332072, y: 0.25332072, z: 0.25332072}
+  m_LocalScale: {x: 0.2861511, y: 0.2861511, z: 0.2861511}
   m_Children: []
   m_Father: {fileID: 2092435790}
   m_RootOrder: 0
@@ -630,7 +630,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deadTilePrefab: {fileID: 3576742268815773340, guid: 9f74a31d92d814e3b8597bb3f364e7a2, type: 3}
-  myList: []
 --- !u!1 &801113819
 GameObject:
   m_ObjectHideFlags: 0
