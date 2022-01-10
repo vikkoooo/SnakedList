@@ -2,44 +2,53 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-	private Vector2 direction;
+	// Snake tail
 	private SnakedList<Transform> segments;
 	public Transform segmentPrefab;
+	
+	// Score
 	public static int score;
+	
+	// Sprite head
 	private SpriteRenderer sprite;
+
+	// Movement
+	private Vector2Int gridPos;
+	private Vector2Int gridDir;
 	
 	private void Start()
 	{
-		direction = Vector2.right;
 		segments = new SnakedList<Transform>();
 		segments.InsertAtEnd(this.transform);
 		
+		sprite = GetComponent<SpriteRenderer>();
+
 		// Two options to set speed, either from this variable
 		// Or project settings > Time > Fixed Timestep = 0.3 is good if not using this variable below
 		//Time.fixedDeltaTime = 0.3f;
-
-		sprite = GetComponent<SpriteRenderer>();
-		
+		gridPos = new Vector2Int(0, 0);
+		gridDir = Vector2Int.right;
 	}
 
 	private void Update()
 	{
+		// Sets movement direction
 		if (Input.GetKeyDown(KeyCode.W))
 		{
-			direction = Vector2.up;
+			gridDir = Vector2Int.up;
 		}
 		else if (Input.GetKeyDown(KeyCode.S))
 		{
-			direction = Vector2.down;
+			gridDir = Vector2Int.down;
 		}
 		else if (Input.GetKeyDown(KeyCode.A))
 		{
-			direction = Vector2.left;
+			gridDir = Vector2Int.left;
 			sprite.flipX = true;
 		}
 		else if (Input.GetKeyDown(KeyCode.D))
 		{
-			direction = Vector2.right;
+			gridDir = Vector2Int.right;
 			sprite.flipX = false;
 		}
 	}
@@ -54,11 +63,10 @@ public class Player : MonoBehaviour
 			lastPos = entry.Data.position;
 			entry.Data.position = tempPos;
 		}
-		
-		this.transform.position = new Vector3(
-			Mathf.Round(this.transform.position.x) + direction.x,
-			Mathf.Round(this.transform.position.y) + direction.y,
-			0);
+
+		// Moves the snake
+		gridPos += gridDir;
+		transform.position = new Vector3(gridPos.x, gridPos.y);
 	}
 	
 	private void Grow()
